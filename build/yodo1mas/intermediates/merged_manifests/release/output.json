@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "applicationId": "com.yodo1.testmasfluttersdktwo",
+  "variantType": "LIBRARY",
+  "elements": [
+    {
+      "outputType": {
+        "type": "MERGED_MANIFESTS"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": -1,
+        "outputFile": "yodo1mas-release.aar",
+        "fullName": "release",
+        "baseName": "release",
+        "dirName": ""
+      },
+      "path": "../../library_manifest/release/AndroidManifest.xml",
+      "properties": {
+        "packageId": "com.yodo1.testmasfluttersdktwo",
+        "split": ""
+      }
+    }
+  ]
+}

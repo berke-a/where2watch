@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "applicationId": "com.berke.where2watch",
+  "variantType": "BASE_APK",
+  "elements": [
+    {
+      "outputType": {
+        "type": "MERGED_MANIFESTS"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": 2,
+        "versionName": "1.1.0",
+        "outputFile": "app-release.apk",
+        "fullName": "release",
+        "baseName": "release",
+        "dirName": ""
+      },
+      "path": "AndroidManifest.xml",
+      "properties": {
+        "packageId": "com.berke.where2watch",
+        "split": "",
+        "minSdkVersion": "19"
+      }
+    }
+  ]
+}
