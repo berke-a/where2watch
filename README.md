@@ -5,7 +5,7 @@ PS: This was an early sophomore project. The _messy_ file structure reflects my 
 - where2watch is an open source mobile app. It has been created using the open-source framework, Flutter.  
 - Shows which platform has the searched movie/series. Additional informations such as imdb rating, plot, duration and links to streaming services can            be accessed too.  
 - Used several APIs for the provider informations and for flags icons in country selection page.  
-- It is currently published on Google Play.  
+- It is ~~currently~~ published on Google Play.  
       
 
       
