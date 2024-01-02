@@ -1,4 +1,4 @@
-PS: This was an early sophomore project. The _messy_ file structure reflects my initial learning curve with Flutter and subsequent updates made after a period away from the framework.
+PS: This was an early sophomore project. The _messy_ file structure and design reflect my initial learning curve with Flutter and subsequent updates made after a period away from the framework.
 
 # where2watch
 
