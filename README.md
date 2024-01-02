@@ -1,3 +1,5 @@
+PS: This was an early sophomore project. The _messy_ file structure reflects my initial learning curve with Flutter and subsequent updates made after a period away from the framework.
+
 # where2watch
 
 - where2watch is an open source mobile app. It has been created using the open-source framework, Flutter.  
